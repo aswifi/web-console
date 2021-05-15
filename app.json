@@ -1,0 +1,8 @@
+{
+  "name": "web-console-Heroku",
+  "description": "",
+  "repository": "https://github.com/aswifi/web-console",
+  "keywords": ["web-console","Heroku"],
+  "image": "aswifi/web-console",
+  "stack": "container"
+}
